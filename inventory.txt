@@ -1,3 +1,3 @@
-hourly, 7
-daily, 49
-weekly, 17
+hourly, 6
+daily, 50
+weekly, 18
